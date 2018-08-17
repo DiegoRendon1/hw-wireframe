@@ -44,7 +44,16 @@ header {
 .article {
     background: #777;
     color: #ebebeb;
-    overflow:auto;
+    width: 97%;
+}
+
+.form-group {
+    padding: 12px;
+}
+
+.form-group input[type="text"], .group-form text area {
+    background: #ebebeb;
+    color: $777;
 }
 
 footer {
