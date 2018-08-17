@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    margin:0 auto;
+}
+body {
+    background: #777;
+    width: 960px;
+    color: #777;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+    background: #ebebeb;
+    margin-bottom: 10px;
+    padding: 35px;
+}
+
+#nav {
+    background: #ebebeb;
+    margin-bottom: 20px;
+    padding: 35px;
+}
+
+#full {
+    background: #ebebeb;
+}
+
+#aside{
+    background: #ebebeb;
+}
+
+footer {
+    background: #ebebeb;
+    padding: 35 px;
+}
