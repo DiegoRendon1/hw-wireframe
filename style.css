@@ -45,15 +45,20 @@ header {
     background: #777;
     color: #ebebeb;
     width: 97%;
+    margin-bottom: 6px; 
+    
 }
 
 .form-group {
     padding: 12px;
+    width: 90%;;
+    margin-bottom: 2px;
 }
 
-.form-group input[type="text"], .group-form text area {
+.form-group input {
     background: #ebebeb;
-    color: $777;
+    color: #777;
+    width: 80%;
 }
 
 footer {
