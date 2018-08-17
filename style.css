@@ -28,7 +28,7 @@ header {
     background: #ebebeb;
     float: left;
     height: 180 px;
-    width: 50%;
+    width: 48.9%;
     margin-bottom: 20px;
 }
 
@@ -36,9 +36,9 @@ header {
     background: #ebebeb;
     float: left;
     height: 220px;
-    width: 40%;
-    margin-left: 15px;
+    width: 48.9%;
     margin-bottom: 20px;
+    margin-left: 20px;
 }
 
 footer {
