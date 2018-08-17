@@ -24,15 +24,26 @@ header {
     padding: 35px;
 }
 
-#full {
+.full {
     background: #ebebeb;
+    float: left;
+    height: 180 px;
+    width: 50%;
+    margin-bottom: 20px;
 }
 
-#aside{
+.aside {
     background: #ebebeb;
+    float: left;
+    height: 220px;
+    width: 40%;
+    margin-left: 15px;
+    margin-bottom: 20px;
 }
 
 footer {
+    
+    clear: both;
     background: #ebebeb;
-    padding: 35 px;
+    padding: 35px;
 }
