@@ -41,6 +41,12 @@ header {
     margin-left: 20px;
 }
 
+.article {
+    background: #777;
+    color: #ebebeb;
+    overflow:auto;
+}
+
 footer {
     
     clear: both;
