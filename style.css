@@ -16,6 +16,7 @@ header {
     background: #ebebeb;
     margin-bottom: 10px;
     padding: 35px;
+    margin-top: 10px;
 }
 
 #nav {
@@ -27,16 +28,16 @@ header {
 .full {
     background: #ebebeb;
     float: left;
-    height: 220px;
-    width: 48.9%;
+    height: 240px;
+    width: 50.9%;
     margin-bottom: 20px;
 }
 
 .aside {
     background: #ebebeb;
     float: left;
-    height: 220px;
-    width: 48.9%;
+    height: 240px;
+    width: 46.9%;
     margin-bottom: 20px;
     margin-left: 20px;
 }
@@ -45,20 +46,27 @@ header {
     background: #777;
     color: #ebebeb;
     width: 97%;
-    margin-bottom: 6px; 
-    
+    border: 1px solid yellow;
+    padding-bottom: 13px;
+    margin-top: 5px;
+    line-height: 22px;
+    margin-bottom: 18px;
+   
 }
 
-.form-group {
-    padding: 12px;
-    width: 90%;;
-    margin-bottom: 2px;
+.h1 {
+    padding: 8px;
+    width: 90%;
+    margin-bottom: 6px;
+    color: #777;
+    background: #ebebeb;
 }
 
-.form-group input {
+.p {
     background: #ebebeb;
     color: #777;
-    width: 80%;
+    width: 90%;
+    padding: 8px;
 }
 
 footer {
